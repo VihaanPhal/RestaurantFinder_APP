@@ -2,7 +2,6 @@
 
 ## Description
 A SwiftUI-based iOS app integrating Firebase and Yelp API for real-time restaurant discovery based on user location and preferences.
-   - ![Login Process GIF](RestaurantFinder/login.png)
 
 ## Features
 - User authentication with Firebase (sign up, log in, log out)
@@ -35,7 +34,9 @@ A SwiftUI-based iOS app integrating Firebase and Yelp API for real-time restaura
 4. Run the app in the simulator or on a physical device.
 
 ## Screenshots
-[Optional: Include a few screenshots of the app. This gives a visual idea of what your app looks like.]
+   - ![Login Process GIF](RestaurantFinder/login.png)
+   - ![Login Process GIF](RestaurantFinder/login.png)
+   - ![Login Process GIF](RestaurantFinder/login.png)
 
 ## Contact
 - Developer: Vihaan Deepak Phal
