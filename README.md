@@ -35,8 +35,8 @@ A SwiftUI-based iOS app integrating Firebase and Yelp API for real-time restaura
 
 ## Screenshots
    - ![Login Process GIF](RestaurantFinder/login.png)
-   - ![Login Process GIF](RestaurantFinder/login.png)
-   - ![Login Process GIF](RestaurantFinder/login.png)
+   - ![Login Process GIF](RestaurantFinder/user.png)
+
 
 ## Contact
 - Developer: Vihaan Deepak Phal
