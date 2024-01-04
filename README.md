@@ -37,7 +37,6 @@ A SwiftUI-based iOS app integrating Firebase and Yelp API for real-time restaura
   <p float="left">
   <img src="https://github.com/VihaanPhal/RestaurantFinder_APP/blob/master/RestaurantFinder/login.png" width="400" />
   <img src="https://github.com/VihaanPhal/RestaurantFinder_APP/blob/master//RestaurantFinder/user.png" width="400" /> 
-  <img src="https://github.com/VihaanPhal/RestaurantFinder_APP/blob/master//RestaurantFinder/user.png" width="400" /> 
 </p>
 
 
