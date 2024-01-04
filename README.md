@@ -34,8 +34,10 @@ A SwiftUI-based iOS app integrating Firebase and Yelp API for real-time restaura
 4. Run the app in the simulator or on a physical device.
 
 ## Screenshots
-   - ![Login Process GIF](RestaurantFinder/login.png)
-   - ![Login Process GIF](RestaurantFinder/user.png)
+  <p float="left">
+  <img src="https://github.com/VihaanPhal/RestaurantFinder_APP/RestaurantFinder/login.png" width="400" />
+  <img src="https://github.com/VihaanPhal/RestaurantFinder_APP/RestaurantFinder/user.png" width="400" /> 
+</p>
 
 
 ## Contact
